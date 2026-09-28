@@ -1,9 +1,11 @@
-# CISA Exam Preparation --- Detailed Subtopic-Wise Syllabus {#cisa-exam-preparation--detailed-subtopic-wise-syllabus}
+# CISA Exam Preparation --- Detailed Subtopic-Wise Syllabus 
 
 ## Official CISA Exam Content Outline
 
-**Primary source:** ISACA CISA Exam Content Outline / Candidate Guide.\
+**Primary source:** ISACA CISA Exam Content Outline / Candidate Guide.
+
 **Current outline used:** the CISA examination content outline effective
+
 August 2024, which ISACA currently lists for the CISA exam.
 
 > **Important:** The headings and numbered subtopics below follow
